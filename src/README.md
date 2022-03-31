@@ -1,0 +1,7 @@
+The purpose of this project is to implement the A* algorithm in through a graph search
+and a tree search. Each search will be done with two heuristic measures: h1
+, which measures the
+amount of misplaced tiles in a given state, and h2
+, which measures the distance of all the
+misplaced tiles from their correct location in a given state. We will be comparing the time it
+takes to execute each algorithm with each heuristic and the amount of nodes searched.
